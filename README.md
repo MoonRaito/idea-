@@ -4,6 +4,9 @@ mac
 command+y 删除行
 command+d 复制行
 
+ctrl+shift+f 全局搜索
+ctrl+shift+r 全局替换
+
 Ctrl+H，显示类结构图（类的继承层次）
 alt+command+B，跳转到方法实现处
 
