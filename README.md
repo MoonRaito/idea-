@@ -21,6 +21,15 @@ ctrl+shift+space代码补全，这个会判断可能用到的，这个代码补�
 command+P 方法参数提示
 command+alt+T 把选中的代码放在 TRY{} IF{} ELSE{} 里
 
+command + E  可以显示最近编辑的文件列表
+command + Shift +Backspace 可以跳转到上次编辑的地方
+command + F12 可以显示当前文件的结构
+command + F7 可以查询当前元素在当前文件中的引用，然后按F3可以选择
+command+Alt+V 可以引入变量。例如把括号内的SQL赋成一个变量
+command+Shift+F7 可以显示当前元素在文件中的使用
+alt + F7 查找方法被调用的地方
+
+http://www.kafan.cn/edu/88066584.html
 http://ylq365.iteye.com/blog/1955397
 http://ylq365.iteye.com/blog/1955397
 
