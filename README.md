@@ -11,6 +11,7 @@ ctrl+enter 生成getset
 
 command+shift+delete 跳到最后修改
 
+Ctrl+alt+H  查找被调用
 Ctrl+H，显示类结构图（类的继承层次）
 alt+command+B，跳转到方法实现处
 
