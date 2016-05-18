@@ -30,9 +30,15 @@ command+Alt+V 可以引入变量。例如把括号内的SQL赋成一个变量
 command+Shift+F7 可以显示当前元素在文件中的使用
 alt + F7 查找方法被调用的地方
 
+shift + cmd + enter 神器，补全当前行，最常用的场景时补全当前行后的；号，并将光标定位到下一行
+shift + cmd + L                   格式化代码
+shift + cmd + O                   static import
+shift + cmd + up/down    将当前代码段上/下移
+shift + alt + up/down       将当前行上/下移
+
 http://www.kafan.cn/edu/88066584.html
 http://ylq365.iteye.com/blog/1955397
-http://ylq365.iteye.com/blog/1955397
+http://mrrigth.iteye.com/blog/1906674
 
 
 win
