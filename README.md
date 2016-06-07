@@ -36,6 +36,8 @@ shift + cmd + O                   static import
 shift + cmd + up/down    将当前代码段上/下移
 shift + alt + up/down       将当前行上/下移
 
+alt+command+v 反向补全 即 补全返回值
+
 http://www.kafan.cn/edu/88066584.html
 http://ylq365.iteye.com/blog/1955397
 http://mrrigth.iteye.com/blog/1906674
