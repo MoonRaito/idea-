@@ -43,6 +43,9 @@ alt+command+v 反向补全 即 补全返回值
 cmd + n 查找类
 shift + cmd + n 查找文件
 
+cmd + +(加号) 展开   + shift 全部展开
+cmd + -(减号) 这点   + shift 全部折叠
+
 http://www.kafan.cn/edu/88066584.html
 http://ylq365.iteye.com/blog/1955397
 http://mrrigth.iteye.com/blog/1906674
